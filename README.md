@@ -1,5 +1,4 @@
 # I-want-7
-
 This is cpp course homeword.
 
 Task is to simulate one game named i want 7. The basic idea of this game is to generate 7 from integer smaller than 7 by combining or adding them up.
